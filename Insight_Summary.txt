@@ -1,0 +1,7 @@
+Insight Summary
+
+1. Missing marks were replaced with the average marks.
+2. Missing department values were replaced with 'Unknown'.
+3. Students scoring above 75 were identified.
+4. Average marks were calculated department-wise.
+5. The analysis helps compare academic performance across departments.
